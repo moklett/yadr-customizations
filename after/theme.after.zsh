@@ -1,0 +1,1 @@
+prompt $ZSH_THEME
